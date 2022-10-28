@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Benzopyrene
-- 👀 I’m interested in coding js
-- 🌱 I’m currently learning how to code in js lol
+# Benzopyrene
+
+> - 👋 Hi, I’m @Benzopyrene 
+> - 👀 I’m interested in learning JavaScript 
+> - 🌱 I’m currently coding a custom discord bot with Discord.js 
 
 <!---
 Benzopyrene/Benzopyrene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
